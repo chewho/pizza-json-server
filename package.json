@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "json-server": "^0.17.3"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "pizza-json-server",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chewho/pizza-json-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chewho/pizza-json-server/issues"
+  },
+  "homepage": "https://github.com/chewho/pizza-json-server#readme",
+  "description": ""
+}
